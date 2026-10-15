@@ -1,0 +1,6 @@
+app_name = "dummy_public"
+app_title = "Dummy_public"
+app_publisher = "Test"
+app_description = "Dummy Frappe app for testing GitHub App access"
+app_email = "test@example.com"
+app_license = "mit"

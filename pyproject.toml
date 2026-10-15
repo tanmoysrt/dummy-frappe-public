@@ -1,0 +1,10 @@
+[project]
+name = "dummy_public"
+version = "0.0.1"
+description = "Dummy Frappe app for testing GitHub App access"
+requires-python = ">=3.10"
+dependencies = []
+
+[build-system]
+requires = ["flit_core >=3.4,<4"]
+build-backend = "flit_core.buildapi"
